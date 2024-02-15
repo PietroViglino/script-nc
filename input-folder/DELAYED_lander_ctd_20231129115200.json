@@ -1,0 +1,16 @@
+{
+    "institution": "_institution",
+    "wmo_platform_code": "_wmo_platform_code",
+    "site_name": "_site_name",
+    "title": "_title",
+    "institution_references": "_institution_references",
+    "contact": "_contact",
+    "author": "_author",
+    "data_assembly_center": "_data_assembly_center",
+    "pi_name": "_pi_name",
+    "distribution_statement": "_distribution_statement",
+    "citation": "_citation",
+    "depth": 15,
+    "latitude":41.18146655538,
+    "longitude":-8.70596654360687 
+}

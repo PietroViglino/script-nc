@@ -1,0 +1,4 @@
+# input-folder/*
+.venv
+example-data/*
+output-folder/*
